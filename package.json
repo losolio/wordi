@@ -1,0 +1,11 @@
+{
+  "name": "wordi",
+  "version": "0.1.0",
+  "description": "An event listing plugin",
+  "author": "Ole Kristian Losvik",
+  "license": "GPL-2.0",
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
